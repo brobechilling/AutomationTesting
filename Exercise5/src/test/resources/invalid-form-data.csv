@@ -1,0 +1,6 @@
+firstName,lastName,email,gender,number,date,subject,hobby,imagePath,address,state,city
+,Tran,david@example.com,Male,9998887776,01 Jan 2000,English,Reading,src/test/resources/dog.png,456 Another St,NCR,Delhi
+Anna,,anna@example.com,Female,9998887776,01 Jan 2000,English,Reading,src/test/resources/dog.png,456 Another St,NCR,Delhi
+Anna,Nguyen,helloworld,Female,9998887776,01 Jan 2000,English,Reading,src/test/resources/dog.png,456 Another St,NCR,Delhi
+Anna,Nguyen,anna@example.com, ,9998887776,01 Jan 2000,English,Reading,,456 Another St,NCR,Delhi
+Anna,Nguyen,anna@example.com,Male,oiaijsdij,01 Jan 2000,English,Reading,,456 Another St,NCR,Delhi
