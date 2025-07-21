@@ -28,6 +28,10 @@ public class BasePage {
         waitForVisibility(locator).click();
     }
 
+    protected void click(WebElement element) {
+        element.click();
+    }
+
     // Send keys safely
     protected void type(By locator, String text) {
         WebElement element = waitForVisibility(locator);
